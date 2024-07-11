@@ -11,6 +11,10 @@ public class ClientService {
 //    ClientDaoImplementation cdao;
     ClientDao cdao;
     Console console;
+
+    public ClientService(ClientDaoImplementation cdao){
+        this.cdao=cdao;
+    }
     public ClientService(){
         cdao=new ClientDaoImplementation();
         console=new Console();

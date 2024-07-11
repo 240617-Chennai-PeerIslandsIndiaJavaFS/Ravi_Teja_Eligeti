@@ -51,4 +51,13 @@ public class MessageTest {
         Assertions.assertIterableEquals(messages,messageService.getMyMessages(1));
     }
 
+    @Test
+    public void testUpdateMessage(){
+        when(messageService.updateMessage(1)).thenReturn(1);
+        when(messageService.updateMessage(2)).thenReturn(2);
+
+        Assertions.assertEquals(1,messageService.updateMessage(1));
+        Assertions.assertEquals(2,messageService.updateMessage(2));
+    }
+
 }

@@ -44,4 +44,19 @@ public class ProjectTest {
         Assertions.assertEquals(projects.get(1),output);
 
     }
+
+    @Test
+    public void testGetProject(){
+        when(mockService.getProjectById(1)).thenReturn(projects.get(1));
+        when(mockService.getProjectById(2)).thenReturn(projects.get(2));
+
+        Assertions.assertEquals(projects.get(1),mockService.getProjectById(1));
+        Assertions.assertEquals(projects.get(2),mockService.getProjectById(2));
+    }
+
+    @Test
+    public void testFetchAllProjects(){
+        when(mockService.fetchAllProjects()).thenReturn(projects);
+        Assertions.assertIterableEquals(projects,mockService.fetchAllProjects());
+    }
 }
