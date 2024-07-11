@@ -1,0 +1,229 @@
+2024-07-10 20:33:03 INFO  org.dao.UserDaoImplementation - Fetched user with name Ravi Teja
+2024-07-10 20:33:03 INFO  org.dao.UserDaoImplementation - User fetched using email
+2024-07-10 20:33:07 INFO  org.dao.UserDaoImplementation - Fetched all users
+2024-07-10 20:33:39 INFO  org.dao.UserDaoImplementation - Updating user is successfull
+2024-07-10 20:40:36 INFO  org.dao.UserDaoImplementation - Fetched user with name Ravi Teja
+2024-07-10 20:40:36 INFO  org.dao.UserDaoImplementation - User fetched using email
+2024-07-10 20:41:10 INFO  org.dao.UserDaoImplementation - Fetched user with name Ravi Teja
+2024-07-10 20:41:10 INFO  org.dao.UserDaoImplementation - User fetched using email
+2024-07-10 20:41:31 ERROR org.dao.UserDaoImplementation - Error in login
+2024-07-10 20:41:59 INFO  org.dao.UserDaoImplementation - Fetched user with name Pappu
+2024-07-10 20:41:59 INFO  org.dao.UserDaoImplementation - User fetched using email
+2024-07-10 20:52:36 INFO  org.dao.UserDaoImplementation - Fetched user with name Ravi Teja
+2024-07-10 20:52:36 INFO  org.dao.UserDaoImplementation - User fetched using email
+2024-07-10 20:53:34 ERROR org.dao.UserDaoImplementation - Error in login
+2024-07-10 20:53:34 INFO  org.dao.UserDaoImplementation - Registration successfull
+2024-07-10 20:54:40 INFO  org.dao.UserDaoImplementation - Fetched user with name Ravi Teja
+2024-07-10 20:54:40 INFO  org.dao.UserDaoImplementation - User fetched using email
+2024-07-10 20:55:05 INFO  org.dao.UserDaoImplementation - Fetched user with name Kavitha
+2024-07-10 20:55:05 INFO  org.dao.UserDaoImplementation - User fetched using email
+2024-07-10 21:56:55 INFO  org.dao.UserDaoImplementation - Registration successfull
+2024-07-10 21:58:26 INFO  org.dao.UserDaoImplementation - Fetched user with name test
+2024-07-10 21:58:26 INFO  org.dao.UserDaoImplementation - User fetched using email
+2024-07-10 22:10:13 INFO  org.dao.UserDaoImplementation - Fetched user with name test
+2024-07-10 22:10:13 INFO  org.dao.UserDaoImplementation - User fetched using email
+2024-07-10 22:43:59 INFO  org.dao.UserDaoImplementation - Fetched user with name Ravi Teja
+2024-07-10 22:43:59 INFO  org.dao.UserDaoImplementation - User fetched using email
+2024-07-10 22:44:11 INFO  org.dao.UserDaoImplementation - Fetched user with name Ravi Teja
+2024-07-10 22:44:11 INFO  org.dao.UserDaoImplementation - User fetched using email
+2024-07-10 22:44:15 INFO  org.dao.ClientDaoImplementation - Fetching clients successfull
+2024-07-10 22:44:45 INFO  org.dao.UserDaoImplementation - Fetched all users
+2024-07-10 22:44:52 INFO  org.dao.ProjectDaoImplementation - Project has been addede Travel application.
+2024-07-10 22:44:52 INFO  org.dao.ProjectDaoImplementation - Project fetched successfully using name
+2024-07-10 22:45:00 INFO  org.dao.TeamDaoImplementation - Team has been created with name fasttrack
+2024-07-10 23:22:11 INFO  org.dao.ClientDaoImplementation - Client registration successfull
+2024-07-10 23:22:38 ERROR org.dao.ClientDaoImplementation - Error in inserting client
+2024-07-10 23:25:15 INFO  org.dao.UserDaoImplementation - Fetched user with name Ravi Teja
+2024-07-10 23:25:15 INFO  org.dao.UserDaoImplementation - User fetched using email
+2024-07-10 23:26:14 INFO  org.dao.UserDaoImplementation - Registration successfull
+2024-07-10 23:26:22 INFO  org.dao.UserDaoImplementation - Fetched all users
+2024-07-10 23:26:52 INFO  org.dao.UserDaoImplementation - Updating user is successfull
+2024-07-10 23:27:07 INFO  org.dao.ClientDaoImplementation - Fetching clients successfull
+2024-07-10 23:28:32 INFO  org.dao.UserDaoImplementation - Fetched all users
+2024-07-10 23:28:36 INFO  org.dao.ProjectDaoImplementation - Project has been addede Bill generator.
+2024-07-10 23:28:36 INFO  org.dao.ProjectDaoImplementation - Project fetched successfully using name
+2024-07-10 23:28:50 INFO  org.dao.TeamDaoImplementation - Team has been created with name fifo
+2024-07-10 23:29:20 INFO  org.dao.ClientDaoImplementation - Client fetched successfully
+2024-07-10 23:29:20 INFO  org.dao.UserDaoImplementation - Fetched user with name Bunny
+2024-07-10 23:29:20 INFO  org.dao.ClientDaoImplementation - Client fetched successfully
+2024-07-10 23:29:20 INFO  org.dao.UserDaoImplementation - Fetched user with name Pappu
+2024-07-10 23:29:20 INFO  org.dao.ClientDaoImplementation - Client fetched successfully
+2024-07-10 23:29:20 INFO  org.dao.UserDaoImplementation - Fetched user with name Pappu
+2024-07-10 23:29:20 INFO  org.dao.ClientDaoImplementation - Client fetched successfully
+2024-07-10 23:29:20 INFO  org.dao.UserDaoImplementation - Fetched user with name Kavitha
+2024-07-10 23:29:20 INFO  org.dao.ClientDaoImplementation - Client fetched successfully
+2024-07-10 23:29:20 INFO  org.dao.UserDaoImplementation - Fetched user with name Chandra teja
+2024-07-10 23:29:20 INFO  org.dao.ProjectDaoImplementation - Fetched all projects
+2024-07-10 23:29:45 INFO  org.dao.ClientDaoImplementation - Client fetched successfully
+2024-07-10 23:29:45 INFO  org.dao.UserDaoImplementation - Fetched user with name Bunny
+2024-07-10 23:29:45 INFO  org.dao.ClientDaoImplementation - Client fetched successfully
+2024-07-10 23:29:45 INFO  org.dao.UserDaoImplementation - Fetched user with name Pappu
+2024-07-10 23:29:45 INFO  org.dao.ClientDaoImplementation - Client fetched successfully
+2024-07-10 23:29:45 INFO  org.dao.UserDaoImplementation - Fetched user with name Pappu
+2024-07-10 23:29:45 INFO  org.dao.ClientDaoImplementation - Client fetched successfully
+2024-07-10 23:29:45 INFO  org.dao.UserDaoImplementation - Fetched user with name Kavitha
+2024-07-10 23:29:45 INFO  org.dao.ClientDaoImplementation - Client fetched successfully
+2024-07-10 23:29:45 INFO  org.dao.UserDaoImplementation - Fetched user with name Chandra teja
+2024-07-10 23:29:45 INFO  org.dao.ProjectDaoImplementation - Fetched all projects
+2024-07-10 23:29:48 INFO  org.dao.TaskDaoImplementation - Success in getting a project tasks
+2024-07-10 23:29:48 INFO  org.dao.ProjectDaoImplementation - Returned users
+2024-07-10 23:29:48 INFO  org.dao.ClientDaoImplementation - Client fetched successfully
+2024-07-10 23:29:48 INFO  org.dao.UserDaoImplementation - Fetched user with name Bunny
+2024-07-10 23:29:48 INFO  org.dao.ClientDaoImplementation - Client fetched successfully
+2024-07-10 23:29:48 INFO  org.dao.UserDaoImplementation - Fetched user with name Pappu
+2024-07-10 23:29:48 INFO  org.dao.ClientDaoImplementation - Client fetched successfully
+2024-07-10 23:29:48 INFO  org.dao.UserDaoImplementation - Fetched user with name Pappu
+2024-07-10 23:29:48 INFO  org.dao.ClientDaoImplementation - Client fetched successfully
+2024-07-10 23:29:48 INFO  org.dao.UserDaoImplementation - Fetched user with name Kavitha
+2024-07-10 23:29:48 INFO  org.dao.ClientDaoImplementation - Client fetched successfully
+2024-07-10 23:29:48 INFO  org.dao.UserDaoImplementation - Fetched user with name Chandra teja
+2024-07-10 23:29:48 INFO  org.dao.ProjectDaoImplementation - Fetched all projects
+2024-07-10 23:29:58 INFO  org.dao.TaskDaoImplementation - Success in getting a project tasks
+2024-07-10 23:29:58 INFO  org.dao.ProjectDaoImplementation - Returned users
+2024-07-10 23:29:58 INFO  org.dao.ClientDaoImplementation - Client fetched successfully
+2024-07-10 23:29:58 INFO  org.dao.UserDaoImplementation - Fetched user with name Bunny
+2024-07-10 23:29:59 INFO  org.dao.ClientDaoImplementation - Client fetched successfully
+2024-07-10 23:29:59 INFO  org.dao.UserDaoImplementation - Fetched user with name Pappu
+2024-07-10 23:29:59 INFO  org.dao.ClientDaoImplementation - Client fetched successfully
+2024-07-10 23:29:59 INFO  org.dao.UserDaoImplementation - Fetched user with name Pappu
+2024-07-10 23:29:59 INFO  org.dao.ClientDaoImplementation - Client fetched successfully
+2024-07-10 23:29:59 INFO  org.dao.UserDaoImplementation - Fetched user with name Kavitha
+2024-07-10 23:29:59 INFO  org.dao.ClientDaoImplementation - Client fetched successfully
+2024-07-10 23:29:59 INFO  org.dao.UserDaoImplementation - Fetched user with name Chandra teja
+2024-07-10 23:29:59 INFO  org.dao.ProjectDaoImplementation - Fetched all projects
+2024-07-10 23:30:05 INFO  org.dao.ClientDaoImplementation - Client fetched successfully
+2024-07-10 23:30:05 INFO  org.dao.UserDaoImplementation - Fetched user with name srinil
+2024-07-10 23:30:05 INFO  org.dao.UserDaoImplementation - Fetched user with name ajay
+2024-07-10 23:30:05 INFO  org.dao.ProjectDaoImplementation - Returned users
+2024-07-10 23:30:05 INFO  org.dao.UserDaoImplementation - Fetched user with name Pappu
+2024-07-10 23:30:05 INFO  org.dao.ProjectDaoImplementation - Fetched object is: task management systen
+2024-07-10 23:30:05 INFO  org.dao.MileStoneDaoImplementation - fetched milestone successfull
+2024-07-10 23:30:05 INFO  org.dao.UserDaoImplementation - Fetched user with name ajay
+2024-07-10 23:30:05 INFO  org.dao.TaskDaoImplementation - Success in getting task by id
+2024-07-10 23:30:05 INFO  org.dao.ClientDaoImplementation - Client fetched successfully
+2024-07-10 23:30:05 INFO  org.dao.UserDaoImplementation - Fetched user with name srinil
+2024-07-10 23:30:05 INFO  org.dao.UserDaoImplementation - Fetched user with name ajay
+2024-07-10 23:30:05 INFO  org.dao.ProjectDaoImplementation - Returned users
+2024-07-10 23:30:05 INFO  org.dao.UserDaoImplementation - Fetched user with name Pappu
+2024-07-10 23:30:05 INFO  org.dao.ProjectDaoImplementation - Fetched object is: task management systen
+2024-07-10 23:30:05 INFO  org.dao.MileStoneDaoImplementation - fetched milestone successfull
+2024-07-10 23:30:05 INFO  org.dao.UserDaoImplementation - Fetched user with name ajay
+2024-07-10 23:30:05 INFO  org.dao.TaskDaoImplementation - Success in getting task by id
+2024-07-10 23:30:05 INFO  org.dao.TaskDaoImplementation - Success in getting a project tasks
+2024-07-10 23:30:05 INFO  org.dao.UserDaoImplementation - Fetched user with name srinil
+2024-07-10 23:30:05 INFO  org.dao.UserDaoImplementation - Fetched user with name ajay
+2024-07-10 23:30:05 INFO  org.dao.ProjectDaoImplementation - Returned users
+2024-07-10 23:30:05 INFO  org.dao.ClientDaoImplementation - Client fetched successfully
+2024-07-10 23:30:05 INFO  org.dao.UserDaoImplementation - Fetched user with name Bunny
+2024-07-10 23:30:05 INFO  org.dao.ClientDaoImplementation - Client fetched successfully
+2024-07-10 23:30:05 INFO  org.dao.UserDaoImplementation - Fetched user with name Pappu
+2024-07-10 23:30:05 INFO  org.dao.ClientDaoImplementation - Client fetched successfully
+2024-07-10 23:30:05 INFO  org.dao.UserDaoImplementation - Fetched user with name Pappu
+2024-07-10 23:30:05 INFO  org.dao.ClientDaoImplementation - Client fetched successfully
+2024-07-10 23:30:05 INFO  org.dao.UserDaoImplementation - Fetched user with name Kavitha
+2024-07-10 23:30:05 INFO  org.dao.ClientDaoImplementation - Client fetched successfully
+2024-07-10 23:30:05 INFO  org.dao.UserDaoImplementation - Fetched user with name Chandra teja
+2024-07-10 23:30:05 INFO  org.dao.ProjectDaoImplementation - Fetched all projects
+2024-07-10 23:30:45 INFO  org.dao.UserDaoImplementation - Fetched user with name Kavitha
+2024-07-10 23:30:45 INFO  org.dao.UserDaoImplementation - User fetched using email
+2024-07-10 23:30:47 INFO  org.dao.ClientDaoImplementation - Client fetched successfully
+2024-07-10 23:30:47 INFO  org.dao.UserDaoImplementation - Fetched user with name Kavitha
+2024-07-10 23:30:47 INFO  org.dao.ProjectDaoImplementation - Getting projects of manager successfull
+2024-07-10 23:30:53 INFO  org.dao.ClientDaoImplementation - Client fetched successfully
+2024-07-10 23:30:53 INFO  org.dao.ProjectDaoImplementation - Returned users
+2024-07-10 23:30:53 INFO  org.dao.UserDaoImplementation - Fetched user with name Kavitha
+2024-07-10 23:30:53 INFO  org.dao.ProjectDaoImplementation - Fetched object is: Travel application
+2024-07-10 23:30:53 INFO  org.dao.UserDaoImplementation - Fetched user with name Kavitha
+2024-07-10 23:30:53 INFO  org.dao.TeamDaoImplementation - Success in fetching a team
+2024-07-10 23:30:53 ERROR org.dao.TeamDaoImplementation - Error in fetching team members
+2024-07-10 23:30:56 INFO  org.dao.UserDaoImplementation - Fetched all users
+2024-07-10 23:31:14 INFO  org.dao.UserDaoImplementation - Updating user is successfull
+2024-07-10 23:31:14 INFO  org.dao.ProjectDaoImplementation - User has been added to project
+2024-07-10 23:31:14 INFO  org.dao.TeamDaoImplementation - Succesfull added member into team
+2024-07-10 23:31:14 INFO  org.dao.UserDaoImplementation - Updating user is successfull
+2024-07-10 23:31:14 INFO  org.dao.ProjectDaoImplementation - User has been added to project
+2024-07-10 23:31:14 INFO  org.dao.TeamDaoImplementation - Succesfull added member into team
+2024-07-10 23:31:14 INFO  org.dao.ClientDaoImplementation - Client fetched successfully
+2024-07-10 23:31:14 INFO  org.dao.UserDaoImplementation - Fetched user with name siva
+2024-07-10 23:31:14 INFO  org.dao.UserDaoImplementation - Fetched user with name Bharath
+2024-07-10 23:31:14 INFO  org.dao.ProjectDaoImplementation - Returned users
+2024-07-10 23:31:14 INFO  org.dao.UserDaoImplementation - Fetched user with name Kavitha
+2024-07-10 23:31:14 INFO  org.dao.ProjectDaoImplementation - Fetched object is: Travel application
+2024-07-10 23:31:14 INFO  org.dao.UserDaoImplementation - Fetched user with name Kavitha
+2024-07-10 23:31:14 INFO  org.dao.TeamDaoImplementation - Success in fetching a team
+2024-07-10 23:31:14 INFO  org.dao.UserDaoImplementation - Fetched user with name siva
+2024-07-10 23:31:14 INFO  org.dao.UserDaoImplementation - Fetched user with name Bharath
+2024-07-10 23:31:14 INFO  org.dao.TeamDaoImplementation - Success in getting users of a team
+2024-07-10 23:31:27 INFO  org.dao.TaskDaoImplementation - Success in getting a project tasks
+2024-07-10 23:31:27 INFO  org.dao.ClientDaoImplementation - Client fetched successfully
+2024-07-10 23:31:27 INFO  org.dao.UserDaoImplementation - Fetched user with name siva
+2024-07-10 23:31:27 INFO  org.dao.UserDaoImplementation - Fetched user with name Bharath
+2024-07-10 23:31:27 INFO  org.dao.ProjectDaoImplementation - Returned users
+2024-07-10 23:31:27 INFO  org.dao.UserDaoImplementation - Fetched user with name Kavitha
+2024-07-10 23:31:27 INFO  org.dao.ProjectDaoImplementation - Fetched object is: Travel application
+2024-07-10 23:31:27 INFO  org.dao.UserDaoImplementation - Fetched user with name Kavitha
+2024-07-10 23:31:27 INFO  org.dao.TeamDaoImplementation - Success in fetching a team
+2024-07-10 23:31:27 INFO  org.dao.UserDaoImplementation - Fetched user with name siva
+2024-07-10 23:31:27 INFO  org.dao.UserDaoImplementation - Fetched user with name Bharath
+2024-07-10 23:31:27 INFO  org.dao.TeamDaoImplementation - Success in getting users of a team
+2024-07-10 23:31:42 INFO  org.dao.UserDaoImplementation - Fetched user with name siva
+2024-07-10 23:31:42 INFO  org.dao.UserDaoImplementation - Fetched user with name Bharath
+2024-07-10 23:31:42 INFO  org.dao.ProjectDaoImplementation - Returned users
+2024-07-10 23:32:33 INFO  org.dao.TaskDaoImplementation - Task has been created with name: frontpage
+2024-07-10 23:32:33 INFO  org.dao.TaskUpdateDaoImplementation - Milestone has been created
+2024-07-10 23:32:33 INFO  org.dao.ClientDaoImplementation - Client fetched successfully
+2024-07-10 23:32:33 INFO  org.dao.UserDaoImplementation - Fetched user with name siva
+2024-07-10 23:32:33 INFO  org.dao.UserDaoImplementation - Fetched user with name Bharath
+2024-07-10 23:32:33 INFO  org.dao.ProjectDaoImplementation - Returned users
+2024-07-10 23:32:33 INFO  org.dao.UserDaoImplementation - Fetched user with name Kavitha
+2024-07-10 23:32:33 INFO  org.dao.ProjectDaoImplementation - Fetched object is: Travel application
+2024-07-10 23:32:33 INFO  org.dao.UserDaoImplementation - Fetched user with name Kavitha
+2024-07-10 23:32:33 INFO  org.dao.TeamDaoImplementation - Success in fetching a team
+2024-07-10 23:32:33 INFO  org.dao.UserDaoImplementation - Fetched user with name siva
+2024-07-10 23:32:33 INFO  org.dao.UserDaoImplementation - Fetched user with name Bharath
+2024-07-10 23:32:33 INFO  org.dao.TeamDaoImplementation - Success in getting users of a team
+2024-07-10 23:32:39 INFO  org.dao.ClientDaoImplementation - Client fetched successfully
+2024-07-10 23:32:39 INFO  org.dao.UserDaoImplementation - Fetched user with name siva
+2024-07-10 23:32:39 INFO  org.dao.UserDaoImplementation - Fetched user with name Bharath
+2024-07-10 23:32:39 INFO  org.dao.ProjectDaoImplementation - Returned users
+2024-07-10 23:32:39 INFO  org.dao.UserDaoImplementation - Fetched user with name Kavitha
+2024-07-10 23:32:39 INFO  org.dao.ProjectDaoImplementation - Fetched object is: Travel application
+2024-07-10 23:32:39 INFO  org.dao.MileStoneDaoImplementation - fetched milestone successfull
+2024-07-10 23:32:39 INFO  org.dao.UserDaoImplementation - Fetched user with name siva
+2024-07-10 23:32:39 INFO  org.dao.TaskDaoImplementation - Success in getting task by id
+2024-07-10 23:32:39 INFO  org.dao.TaskDaoImplementation - Success in getting a project tasks
+2024-07-10 23:32:39 INFO  org.dao.ClientDaoImplementation - Client fetched successfully
+2024-07-10 23:32:39 INFO  org.dao.UserDaoImplementation - Fetched user with name siva
+2024-07-10 23:32:39 INFO  org.dao.UserDaoImplementation - Fetched user with name Bharath
+2024-07-10 23:32:39 INFO  org.dao.ProjectDaoImplementation - Returned users
+2024-07-10 23:32:39 INFO  org.dao.UserDaoImplementation - Fetched user with name Kavitha
+2024-07-10 23:32:39 INFO  org.dao.ProjectDaoImplementation - Fetched object is: Travel application
+2024-07-10 23:32:39 INFO  org.dao.UserDaoImplementation - Fetched user with name Kavitha
+2024-07-10 23:32:39 INFO  org.dao.TeamDaoImplementation - Success in fetching a team
+2024-07-10 23:32:39 INFO  org.dao.UserDaoImplementation - Fetched user with name siva
+2024-07-10 23:32:39 INFO  org.dao.UserDaoImplementation - Fetched user with name Bharath
+2024-07-10 23:32:39 INFO  org.dao.TeamDaoImplementation - Success in getting users of a team
+2024-07-10 23:32:59 INFO  org.dao.ClientDaoImplementation - Client fetched successfully
+2024-07-10 23:32:59 INFO  org.dao.UserDaoImplementation - Fetched user with name siva
+2024-07-10 23:32:59 INFO  org.dao.UserDaoImplementation - Fetched user with name Bharath
+2024-07-10 23:32:59 INFO  org.dao.ProjectDaoImplementation - Returned users
+2024-07-10 23:32:59 INFO  org.dao.UserDaoImplementation - Fetched user with name Kavitha
+2024-07-10 23:32:59 INFO  org.dao.ProjectDaoImplementation - Fetched object is: Travel application
+2024-07-10 23:32:59 INFO  org.dao.MileStoneDaoImplementation - fetched milestone successfull
+2024-07-10 23:32:59 INFO  org.dao.UserDaoImplementation - Fetched user with name siva
+2024-07-10 23:32:59 INFO  org.dao.TaskDaoImplementation - Success in getting task by id
+2024-07-10 23:32:59 INFO  org.dao.TaskDaoImplementation - Success in getting a project tasks
+2024-07-10 23:32:59 INFO  org.dao.ClientDaoImplementation - Client fetched successfully
+2024-07-10 23:32:59 INFO  org.dao.UserDaoImplementation - Fetched user with name siva
+2024-07-10 23:32:59 INFO  org.dao.UserDaoImplementation - Fetched user with name Bharath
+2024-07-10 23:32:59 INFO  org.dao.ProjectDaoImplementation - Returned users
+2024-07-10 23:32:59 INFO  org.dao.UserDaoImplementation - Fetched user with name Kavitha
+2024-07-10 23:32:59 INFO  org.dao.ProjectDaoImplementation - Fetched object is: Travel application
+2024-07-10 23:32:59 INFO  org.dao.UserDaoImplementation - Fetched user with name Kavitha
+2024-07-10 23:32:59 INFO  org.dao.TeamDaoImplementation - Success in fetching a team
+2024-07-10 23:32:59 INFO  org.dao.UserDaoImplementation - Fetched user with name siva
+2024-07-10 23:32:59 INFO  org.dao.UserDaoImplementation - Fetched user with name Bharath
+2024-07-10 23:32:59 INFO  org.dao.TeamDaoImplementation - Success in getting users of a team
+2024-07-10 23:33:28 INFO  org.dao.ClientDaoImplementation - Client fetched successfully
+2024-07-10 23:33:28 INFO  org.dao.UserDaoImplementation - Fetched user with name Kavitha
+2024-07-10 23:33:28 INFO  org.dao.ProjectDaoImplementation - Getting projects of manager successfull
