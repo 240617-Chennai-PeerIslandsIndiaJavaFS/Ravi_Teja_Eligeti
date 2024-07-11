@@ -51,7 +51,24 @@ public class TaskTest {
     public void testTestCreation(){
         when(mockservie.createTask(tasks.get(1))).thenReturn(tasks.get(1));
         Assertions.assertEquals(tasks.get(1),mockservie.createTask(tasks.get(1)));
+    }
 
+    @Test
+    public void testUpdateTask(){
+        when(mockservie.updateTask(tasks.get(2))).thenReturn(1);
+        Assertions.assertEquals(1,mockservie.updateTask(tasks.get(2)));
+    }
+
+    @Test
+    public void testFetchAllUserProjectTasks(){
+        when(mockservie.userProjectTasks(1,1)).thenReturn(tasks);
+        Assertions.assertIterableEquals(tasks,mockservie.userProjectTasks(1,1));
+    }
+
+    @Test
+    public void testFetchTasksOfProjects(){
+        when(mockservie.getTaskByProject(1)).thenReturn(tasks);
+        Assertions.assertIterableEquals(tasks,mockservie.getTaskByProject(1));
     }
 
 

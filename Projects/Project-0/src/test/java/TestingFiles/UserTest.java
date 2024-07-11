@@ -86,6 +86,13 @@ public class UserTest {
 
     }
 
+    @Test
+    public void testGetUserById(){
+        when(userService.getUserById(1)).thenReturn(sampleUser);
+        Assertions.assertEquals(sampleUser,userService.getUserById(1));
+    }
+
+
 
 
 }

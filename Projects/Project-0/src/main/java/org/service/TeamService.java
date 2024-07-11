@@ -17,6 +17,12 @@ public class TeamService {
 
     ProjectDao pdao;
 
+    public TeamService(TeamDaoImplementation teamDao,UserDaoImplementation udao,ProjectDaoImplementation pdao){
+        this.teamDao=teamDao;
+        this.udao=udao;
+        this.pdao=pdao;
+    }
+
     public TeamService(){
         teamDao=new TeamDaoImplementation();
         console=new Console();

@@ -9,6 +9,10 @@ import java.util.List;
 public class TaskUpdateService {
     TaskUpdateDao taskUpdateDao;
 
+    public TaskUpdateService(TaskUpdateDaoImplementation taskUpdateDao){
+        this.taskUpdateDao=taskUpdateDao;
+    }
+
     public TaskUpdateService(){
         taskUpdateDao=new TaskUpdateDaoImplementation();
     }
